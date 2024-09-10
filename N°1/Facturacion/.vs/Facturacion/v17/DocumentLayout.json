@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\datos\\repository\\invoice repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:datos\\repository\\invoice repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\datos\\repository\\article repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:datos\\repository\\article repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\datos\\repository\\client repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:datos\\repository\\client repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\servicios\\invoice service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:servicios\\invoice service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\domain\\details invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:domain\\details invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\servicios\\payment methods service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:servicios\\payment methods service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\datos\\interface\\iinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:datos\\interface\\iinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|c:\\users\\figue\\desktop\\programacion 2024\\2\u00B0 cuatrimestre\\programacion ii\\actividades semanales\\n\u00B01\\facturacion\\domain\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF517AB-CDFC-4D20-9C00-4D3B2FBB4100}|Facturacion.csproj|solutionrelative:domain\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment Methods Service.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Servicios\\Payment Methods Service.cs",
+              "RelativeDocumentMoniker": "Servicios\\Payment Methods Service.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Servicios\\Payment Methods Service.cs",
+              "RelativeToolTip": "Servicios\\Payment Methods Service.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:18:11.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Interface\\IInvoice.cs",
+              "RelativeDocumentMoniker": "Datos\\Interface\\IInvoice.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Interface\\IInvoice.cs",
+              "RelativeToolTip": "Datos\\Interface\\IInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:04:53.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Details Invoice.cs",
+              "RelativeDocumentMoniker": "Domain\\Details Invoice.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Details Invoice.cs",
+              "RelativeToolTip": "Domain\\Details Invoice.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:23:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Article.cs",
+              "RelativeDocumentMoniker": "Domain\\Article.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Article.cs",
+              "RelativeToolTip": "Domain\\Article.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:23:52.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Client.cs",
+              "RelativeToolTip": "Domain\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:14:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client Repository.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Repository\\Client Repository.cs",
+              "RelativeDocumentMoniker": "Datos\\Repository\\Client Repository.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Repository\\Client Repository.cs",
+              "RelativeToolTip": "Datos\\Repository\\Client Repository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:08:03.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice Service.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Servicios\\Invoice Service.cs",
+              "RelativeDocumentMoniker": "Servicios\\Invoice Service.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Servicios\\Invoice Service.cs",
+              "RelativeToolTip": "Servicios\\Invoice Service.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:37:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:26:12.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Invoice.cs",
+              "RelativeDocumentMoniker": "Domain\\Invoice.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Domain\\Invoice.cs",
+              "RelativeToolTip": "Domain\\Invoice.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwB8AAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:05:55.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Invoice Repository.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Repository\\Invoice Repository.cs",
+              "RelativeDocumentMoniker": "Datos\\Repository\\Invoice Repository.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Repository\\Invoice Repository.cs",
+              "RelativeToolTip": "Datos\\Repository\\Invoice Repository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T03:02:30.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Article Repository.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Repository\\Article Repository.cs",
+              "RelativeDocumentMoniker": "Datos\\Repository\\Article Repository.cs",
+              "ToolTip": "C:\\Users\\figue\\Desktop\\Programacion 2024\\2\u00B0 Cuatrimestre\\Programacion II\\Actividades semanales\\N\u00B01\\Facturacion\\Datos\\Repository\\Article Repository.cs",
+              "RelativeToolTip": "Datos\\Repository\\Article Repository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA8wBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:52:54.999Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 33,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
