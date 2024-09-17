@@ -1,6 +1,6 @@
 ﻿using FacturacionApi.Entity;
 using FacturacionApi.Interface;
-using FacturacionApi.Models.Repository;
+using FacturacionApi.Repository;
 
 namespace FacturacionApi.Service
 {

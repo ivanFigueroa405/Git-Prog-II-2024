@@ -2,6 +2,7 @@
 using FacturacionApi.Interface;
 using FacturacionApi.Service;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace FacturacionApi.Controllers
 {
@@ -14,19 +15,21 @@ namespace FacturacionApi.Controllers
     {
 
         private ArticleService service;
+        List<Article> lArticle = new List<Article>();
 
 
         public ArticleControllers()
         {
           
             service = new ArticleService();
+
         }
 
 
         [HttpGet]
         public IActionResult Get()
         {
-            List<Article> lArticle = service.GetArticle();
+            lArticle= service.GetArticle();
             if (lArticle.Count > 0)
             {
                 return Ok(lArticle);
@@ -54,16 +57,18 @@ namespace FacturacionApi.Controllers
             else
                 return BadRequest();
         }
-        [HttpPut("{id}")]
+        [HttpPut]
         public IActionResult Update([FromBody]Article oArt)
         {
-            if (oArt == null)
-            {
-                return BadRequest();
-            }
+            lArticle = service.GetArticle();
+
+                if (lArticle == null || oArt == null)
+                {
+                        return BadRequest("NO EXISTE ESE ID");
+                }
             else
-                service.UpdateArticle(oArt);
-                return Ok("se agrego mortal");
+            service.UpdateArticle(oArt);
+            return Ok("se agrego correctamente");
         }
 
     }

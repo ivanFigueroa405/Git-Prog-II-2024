@@ -106,7 +106,7 @@ namespace FacturacionApi.Repository
         public bool PutArticle(Article oArticle)
         {
             bool result = true;
-            string query = "SP_ALTA_ARTICULO";
+            string query = "SP_EDITAR_ARTICULO";
             try
             {
                 if (oArticle != null)

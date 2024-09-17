@@ -9,25 +9,17 @@ precio_unitario decimal(18,2),
 activo bit
 constraint pk_articulos primary key(id_articulo)
 )
-ALTER PROCEDURE SP_ALTA_ARTICULO
+CREATE PROCEDURE SP_ALTA_ARTICULO
 @id int,
 @nombre varchar (100),
 @precio_unitario decimal(18,2),
 @activo bit
 as 
   begin 
-  IF exists(SELECT id_articulo from ARTICULOS where id_articulo=@id)
-  begin
-   UPDATE ARTICULOS
-  SET nombre=@nombre,precio_unitario=@precio_unitario,activo=@activo
-  WHERE id_articulo=@id
-  end
-  ELSE
-  BEGIN
   insert into ARTICULOS (nombre,precio_unitario,activo)
   values (@nombre,@precio_unitario,@activo)
   END
-  END
+
 
 alter PROCEDURE SP_CONSULTAR_ARTICULOS
   AS
@@ -45,4 +37,16 @@ alter PROCEDURE SP_CONSULTAR_ARTICULOS
   end
 
  --EJECUTA UN BORRADO LOGICO
+
+CREATE PROCEDURE SP_EDITAR_ARTICULO
+ @id int,
+@nombre varchar (100),
+@precio_unitario decimal(18,2),
+@activo bit
+ AS
+ BEGIN
+   UPDATE ARTICULOS
+  SET nombre=@nombre,precio_unitario=@precio_unitario,activo=@activo
+  WHERE id_articulo=@id
+  end
  
